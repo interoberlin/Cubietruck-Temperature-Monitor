@@ -1,6 +1,6 @@
 # Cubietruck Temperature-Monitor
 
-This project consists of a Python script that runs on your Cubietruck and logs the SoC temperature to a file.<br/>
+This project consists of a Python script that runs on your Cubietruck and logs the SoC temperature to a file.
 A D3-based webpage allows you to monitor the temperature via LAN or internet.
 
 Author: Matthias Bock<br/>
